@@ -1,0 +1,3 @@
+displayName = Malice Addon Name TBD
+author = Malice Addon Devs
+version = 0.1
