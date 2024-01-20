@@ -1,3 +1,3 @@
-displayName = Malice Addon Name TBD
-author = Malice Addon Devs
+displayName = Calamity: Herald of the Heavens
+author = Herald of the Heavens Development Team
 version = 0.1
