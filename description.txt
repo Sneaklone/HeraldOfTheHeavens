@@ -1,1 +1,3 @@
-Calamity: Herald of the Heavens is an upcoming addon to Calamity that intends on reworking the Astral Infection, the Astrum Deus boss and the Astrum Aureus boss, amongst other things
+Herald of the Heavens is an upcoming addon to Calamity that intends on reworking the Astral Infection, the Astrum Deus boss and the Astrum Aureus boss, amongst other things
+
+Test
