@@ -1,3 +1,8 @@
 displayName = Calamity: Herald of the Heavens
 author = Herald of the Heavens Development Team
 version = 0.1
+modReferences = CalamityMod
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
